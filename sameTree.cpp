@@ -62,13 +62,11 @@ int main(){
     q -> left -> left =   new TreeNode(4);   
     q -> right -> right = new TreeNode(5);
 
-    Solution1 sol;
+    // Solution1 sol;
 
-    cout<<sol.isSameTree(p,q)<<endl;
+    // cout<<sol.isSameTree(p,q)<<endl;
 
     //cout<<isSameTree(p,q)<<endl;
     return 0;
-
-
     
 }
